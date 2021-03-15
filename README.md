@@ -9,7 +9,8 @@ This simple note taking application allows you to save notes with a title and pl
 ## Preview:
 ![Application Preview](demo.gif)
 
-## Deployed Link:
+
+## Deployed Link:https://notetakeridil.herokuapp.com
 
 ## Built With
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
